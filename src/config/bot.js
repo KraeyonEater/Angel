@@ -24,8 +24,8 @@ export const botConfig = {
     activities: [
       {
         name: "Which side are you on?", // required by Discord API, not shown in the client
-        state: "Watching the Sinners",     // this is what people actually see
-        type: 4,               // Custom
+        state: "the Sinners",     // this is what people actually see
+        type: 3,               // Custom
       },
     ],
   },
